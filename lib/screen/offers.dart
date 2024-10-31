@@ -14,7 +14,6 @@ class offersPage extends StatefulWidget {
   @override
   State<offersPage> createState() => _offersPageState();
 }
-
 class _offersPageState extends State<offersPage> {
   List<dynamic> products = [];
   List<dynamic> filteredProducts = [];
