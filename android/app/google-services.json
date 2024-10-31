@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "120415525220",
+    "project_id": "eco1-125f5",
+    "storage_bucket": "eco1-125f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120415525220:android:baf6dc4d3842fa00e74271",
+        "android_client_info": {
+          "package_name": "com.example.eco2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120415525220-h9a7vmagokrf06914k5d75fioba4sd17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eco2",
+            "certificate_hash": "c2f1e8b9de18cdc2699f83f4acbf97fcf82e34d2"
+          }
+        },
+        {
+          "client_id": "120415525220-8gphpuno5cjpg30icck8kke8k9oq7mkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG6E0-4_1-d6EaZdVlwiOpIpNCTTgYPYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120415525220-8gphpuno5cjpg30icck8kke8k9oq7mkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
